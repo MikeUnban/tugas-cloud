@@ -1,3 +1,3 @@
 <?php
 
-echo "Michael Christian Sugianto <br> 52019021 <br> Teknik Informatika"
+echo "Michael Christian Sugianto, 52019021, Teknik Informatika"
